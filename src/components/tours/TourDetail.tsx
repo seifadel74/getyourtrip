@@ -13,7 +13,7 @@ import {
 } from '@heroicons/react/24/outline';
 import { destinations } from '../../data/destinations';
 import { toast } from 'react-hot-toast';
-import { Tour, Review, ItineraryDay, Destination } from '../../types';
+import { Tour, Review, ItineraryDay } from '../../types';
 import styles from './TourDetail.module.css';
 
 const TourDetail = () => {

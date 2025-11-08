@@ -1,0 +1,295 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "tours": "Touren",
+    "destinations": "Reiseziele",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "bookNow": "Jetzt buchen"
+  },
+  "hero": {
+    "tagline": "Erkunden Sie die Welt mit uns",
+    "title": "Entdecken Sie wunderbare Reiseziele auf der ganzen Welt",
+    "description": "Erleben Sie die atemberaubendsten Orte mit unseren fachmännisch gestalteten Touren. Schaffen Sie Erinnerungen, die ein Leben lang halten.",
+    "exploreTours": "Touren erkunden",
+    "learnMore": "Mehr erfahren",
+    "searchTitle": "Finden Sie Ihre perfekte Reise",
+    "destination": "Reiseziel",
+    "selectDestination": "Reiseziel auswählen",
+    "duration": "Dauer",
+    "anyDuration": "Beliebige Dauer",
+    "days1to3": "1-3 Tage",
+    "days4to7": "4-7 Tage",
+    "weeks1to2": "1-2 Wochen",
+    "weeks2plus": "2+ Wochen",
+    "travelDate": "Reisedatum",
+    "search": "Suchen"
+  },
+  "footer": {
+    "company": "Unternehmen",
+    "aboutUs": "Über uns",
+    "ourTeam": "Unser Team",
+    "careers": "Karriere",
+    "blog": "Blog",
+    "support": "Support",
+    "faqs": "Häufige Fragen",
+    "contactUs": "Kontaktieren Sie uns",
+    "termsConditions": "Allgemeine Geschäftsbedingungen",
+    "privacyPolicy": "Datenschutzerklärung",
+    "contact": "Kontakt",
+    "description": "Entdecken Sie die Welt mit unseren sorgfältig ausgewählten Reiseerlebnissen. Wir schaffen unvergessliche Erinnerungen für jeden Reisenden.",
+    "copyright": "Alle Rechte vorbehalten.",
+    "social": {
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "tripadvisor": "TripAdvisor"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Warum uns wählen",
+    "subtitle": "Wir sind bestrebt, Ihnen die bestmögliche Reiseerfahrung zu bieten.",
+    "features": {
+      "bestPrice": {
+        "title": "Bester Preis Garantie",
+        "description": "Wir bieten die besten Preise für Ihren Traumurlaub, garantiert!"
+      },
+      "worldwide": {
+        "title": "Weltweite Abdeckung",
+        "description": "Erkunden Sie wunderbare Reiseziele auf der ganzen Welt mit unseren erfahrenen Reiseleitern."
+      },
+      "bestDeals": {
+        "title": "Beste Angebote",
+        "description": "Exklusive Angebote und Rabatte für unsere treuen Kunden."
+      },
+      "bestServices": {
+        "title": "Beste Dienstleistungen",
+        "description": "24/7 Kundensupport, um sicherzustellen, dass Sie die beste Reiseerfahrung haben."
+      }
+    }
+  },
+  "popularTours": {
+    "title": "Beliebte Touren",
+    "subtitle": "Entdecken Sie unsere beliebtesten Reisepakete, die sorgfältig gestaltet wurden, um Ihnen unvergessliche Erlebnisse zu bieten.",
+    "featured": "Empfohlen",
+    "perPerson": "Pro Person",
+    "viewDetails": "Details anzeigen",
+    "viewAllTours": "Alle Touren anzeigen"
+  },
+  "testimonials": {
+    "title": "Was unsere Reisenden sagen",
+    "subtitle": "Hören Sie von unseren zufriedenen Kunden über ihre Erfahrungen mit uns."
+  },
+  "callToAction": {
+    "title": "Bereit für Ihr nächstes Abenteuer?",
+    "subtitle": "Warten Sie nicht länger. Buchen Sie noch heute Ihren Traumurlaub und schaffen Sie Erinnerungen, die ein Leben lang halten.",
+    "exploreTours": "Touren erkunden",
+    "contactUs": "Kontaktieren Sie uns",
+    "callUs": "Rufen Sie uns an",
+    "emailUs": "Schreiben Sie uns"
+  },
+  "about": {
+    "title": "Über Get Your Trip",
+    "subtitle": "Seit 2020 schaffen wir unvergessliche Reiseerlebnisse",
+    "ourStory": {
+      "title": "Unsere Geschichte",
+      "paragraph1": "Get Your Trip wurde 2020 mit einer einfachen Mission gegründet: Reiseplanung mühelos und angenehm zu gestalten. Was als kleines Team von Reisebegeisterten begann, ist zu einem vertrauenswürdigen Namen in der Reisebranche geworden, der Tausenden von Reisenden hilft, die schönsten Reiseziele der Welt zu entdecken.",
+      "paragraph2": "Wir glauben, dass Reisen die Kraft hat, Leben zu verändern, Perspektiven zu erweitern und bleibende Erinnerungen zu schaffen. Deshalb sind wir bestrebt, außergewöhnlichen Service, sorgfältig kuratierte Erlebnisse und persönliche Aufmerksamkeit für jeden Reisenden zu bieten, der bei uns bucht."
+    },
+    "ourValues": {
+      "title": "Unsere Werte",
+      "subtitle": "Was Get Your Trip auszeichnet",
+      "passionateExperts": {
+        "name": "Leidenschaftliche Experten",
+        "description": "Unser Team besteht aus Reisebegeisterten, die die von uns angebotenen Reiseziele persönlich erlebt haben."
+      },
+      "sustainableTravel": {
+        "name": "Nachhaltiges Reisen",
+        "description": "Wir sind verpflichtet, verantwortungsvollen Tourismus zu betreiben, der lokalen Gemeinschaften zugutekommt und natürliche Ressourcen erhält."
+      },
+      "personalizedService": {
+        "name": "Personalisierter Service",
+        "description": "Wir nehmen uns die Zeit, Ihre Präferenzen zu verstehen und das perfekte Programm nur für Sie zu erstellen."
+      },
+      "safetyFirst": {
+        "name": "Sicherheit zuerst",
+        "description": "Ihre Sicherheit hat für uns oberste Priorität. Wir arbeiten mit vertrauenswürdigen lokalen Betreibern zusammen und halten strenge Sicherheitsstandards ein."
+      }
+    },
+    "team": {
+      "title": "Lernen Sie unser Team kennen",
+      "subtitle": "Die leidenschaftlichen Menschen hinter Get Your Trip"
+    },
+    "cta": {
+      "title": "Bereit, Ihr nächstes Abenteuer zu planen?",
+      "subtitle": "Beginnen Sie noch heute Ihre Reise mit uns.",
+      "exploreTours": "Touren erkunden",
+      "contactUs": "Kontaktieren Sie uns"
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "getInTouch": "Kontakt aufnehmen",
+    "description": "Haben Sie Fragen oder benötigen Sie weitere Informationen? Füllen Sie das Formular aus und wir werden uns so schnell wie möglich bei Ihnen melden.",
+    "address": "123 Travel Street, Kairo, Ägypten",
+    "phone": "+20 123 456 7890",
+    "phoneHours": "Mo-Fr, 9-17 Uhr",
+    "email": "info@getyourtrip.com",
+    "emailResponse": "Wir antworten innerhalb von 24 Stunden",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "required": "*",
+      "sendMessage": "Nachricht senden",
+      "successMessage": "Vielen Dank für Ihre Nachricht! Wir werden uns bald bei Ihnen melden."
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Finden Sie Antworten auf häufige Fragen zu unseren Touren und Dienstleistungen.",
+    "questions": {
+      "booking": {
+        "question": "Wie buche ich eine Tour?",
+        "answer": "Sie können eine Tour direkt über unsere Website buchen, indem Sie Ihre gewünschte Tour auswählen und dem Buchungsprozess folgen. Alternativ können Sie unseren Kundenservice für Unterstützung kontaktieren."
+      },
+      "cancellation": {
+        "question": "Wie ist Ihre Stornierungsrichtlinie?",
+        "answer": "Wir bieten kostenlose Stornierung bis zu 7 Tage vor Ihrer geplanten Tour. Stornierungen, die innerhalb von 7 Tagen vor dem Tourdatum vorgenommen werden, können mit einer Gebühr verbunden sein. Bitte überprüfen Sie die spezifischen Tourdetails für weitere Informationen."
+      },
+      "whatToBring": {
+        "question": "Was sollte ich auf die Tour mitbringen?",
+        "answer": "Wir empfehlen, bequeme Wanderschuhe, wettergerechte Kleidung, eine Wasserflasche, Sonnencreme und eine Kamera mitzubringen. Spezifische Touren können zusätzliche Empfehlungen haben, die in Ihrer Buchungsbestätigung bereitgestellt werden."
+      },
+      "children": {
+        "question": "Sind Ihre Touren für Kinder geeignet?",
+        "answer": "Die meisten unserer Touren sind familienfreundlich und für Kinder geeignet. Einige Touren können jedoch aufgrund von Sicherheitsbedenken Altersbeschränkungen haben. Bitte überprüfen Sie die Tourdetails oder kontaktieren Sie uns für spezifische Informationen."
+      },
+      "privateTours": {
+        "question": "Bieten Sie Privattouren an?",
+        "answer": "Ja, wir bieten Privattouren für Einzelpersonen und Gruppen an. Privattouren können nach Ihren Wünschen und Ihrem Zeitplan angepasst werden. Bitte kontaktieren Sie uns für weitere Informationen und Preise."
+      },
+      "payment": {
+        "question": "Welche Zahlungsmethoden akzeptieren Sie?",
+        "answer": "Wir akzeptieren alle gängigen Kreditkarten, PayPal und Banküberweisungen. Die Zahlung ist zum Zeitpunkt der Buchung erforderlich, um Ihre Reservierung zu sichern."
+      }
+    },
+    "stillHaveQuestions": "Haben Sie noch Fragen?",
+    "contactSupport": "Kontaktieren Sie unser Support-Team für weitere Informationen."
+  },
+  "tours": {
+    "title": "Unsere Touren",
+    "loadingTitle": "Unsere Touren",
+    "loadingSubtitle": "Lade wunderbare Tour-Optionen für Sie...",
+    "toursFound": "Touren gefunden",
+    "tourFound": "Tour gefunden",
+    "toursIn": "Touren in",
+    "noResults": "Keine Touren gefunden, die Ihren Kriterien entsprechen.",
+    "clearFilters": "Alle Filter löschen",
+    "loadingFilters": "Filter werden geladen..."
+  },
+  "destinations": {
+    "title": "Entdecken Sie wunderbare Reiseziele",
+    "subtitle": "Erkunden Sie unsere sorgfältig ausgewählte Auswahl der schönsten Orte der Welt",
+    "searchPlaceholder": "Reiseziele suchen...",
+    "filterByCountry": "Nach Land filtern:",
+    "all": "Alle",
+    "popular": "Beliebt",
+    "reviews": "Bewertungen",
+    "noResults": "Keine Reiseziele gefunden",
+    "tryAdjusting": "Versuchen Sie, Ihre Suche oder Filterkriterien anzupassen"
+  },
+  "newsletter": {
+    "title": "Abonnieren Sie unseren Newsletter",
+    "description": "Erhalten Sie die neuesten Angebote und Rabatte direkt per E-Mail",
+    "email": "E-Mail",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "subscribe": "Abonnieren",
+    "subscribing": "Wird abonniert...",
+    "success": "Erfolgreich abonniert! Vielen Dank",
+    "privacy": "Wir respektieren Ihre Privatsphäre. Wir werden Ihre E-Mail nicht an Dritte weitergeben."
+  },
+  "featuredDestinations": {
+    "title": "Empfohlene Reiseziele",
+    "subtitle": "Entdecken Sie die besten Reiseziele der Welt mit exklusiven Angeboten",
+    "startingFrom": "Ab",
+    "perNight": "/ pro Nacht",
+    "viewAllDestinations": "Alle Reiseziele anzeigen"
+  },
+  "tourDetail": {
+    "overview": "Übersicht",
+    "itinerary": "Reiseverlauf",
+    "reviews": "Bewertungen",
+    "customerReviews": "Kundenbewertungen",
+    "writeReview": "Bewertung schreiben",
+    "loadingReviews": "Bewertungen werden geladen...",
+    "bookNow": "Jetzt buchen",
+    "selectDate": "Datum auswählen",
+    "adults": "Erwachsene",
+    "children": "Kinder",
+    "total": "Gesamt",
+    "back": "Zurück"
+  },
+  "booking": {
+    "step": "Schritt",
+    "of": "von",
+    "back": "Zurück",
+    "bookingInfo": "Buchungsinformationen",
+    "payment": "Zahlung",
+    "fullName": "Vollständiger Name",
+    "fullNamePlaceholder": "Vollständigen Namen eingeben",
+    "email": "E-Mail",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "phone": "Telefonnummer",
+    "phonePlaceholder": "123 456 7890",
+    "specialRequests": "Besondere Wünsche (Optional)",
+    "specialRequestsPlaceholder": "Besondere Anforderungen oder zusätzliche Bedürfnisse",
+    "acceptTerms": "Ich stimme den",
+    "termsConditions": "Allgemeinen Geschäftsbedingungen",
+    "and": "und",
+    "privacyPolicy": "Datenschutzerklärung",
+    "creditCard": "Kredit-/Debitkarte",
+    "paypal": "PayPal",
+    "bankTransfer": "Banküberweisung",
+    "cardNumber": "Kartennummer",
+    "cardNumberPlaceholder": "1234 5678 9012 3456",
+    "expiryDate": "Ablaufdatum",
+    "expiryPlaceholder": "MM/JJ",
+    "cvv": "CVV",
+    "cvvPlaceholder": "123",
+    "saveCard": "Karteninformationen für zukünftige Verwendung speichern",
+    "paypalRedirect": "Sie werden zu PayPal weitergeleitet, um die Zahlung abzuschließen.",
+    "bankInfo": "Banküberweisungsinformationen",
+    "bankName": "Bankname:",
+    "accountNumber": "Kontonummer:",
+    "beneficiary": "Begünstigter Name:",
+    "iban": "IBAN:",
+    "bankNote": "Bitte senden Sie eine Kopie des Überweisungsbelegs an info@getyourtrip.com mit Ihrer Buchungsnummer",
+    "orderSummary": "Bestellübersicht",
+    "tripPrice": "Reisepreis",
+    "taxesFees": "Steuern und Gebühren",
+    "total": "Gesamt",
+    "backToInfo": "Zurück zu persönlichen Informationen",
+    "proceedToPayment": "Zur Zahlung fortfahren",
+    "confirmBooking": "Buchung bestätigen",
+    "processing": "Wird verarbeitet...",
+    "confirming": "Buchung wird bestätigt...",
+    "successTitle": "Ihre Buchung wurde erfolgreich bestätigt!",
+    "successMessage": "Wir senden Ihnen eine Buchungsbestätigung mit Reisedetails an Ihre E-Mail und Telefonnummer",
+    "viewBookings": "Meine Buchungen anzeigen",
+    "browseMore": "Weitere Touren durchsuchen"
+  },
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "close": "Schließen",
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten"
+  }
+}
+

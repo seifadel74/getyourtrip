@@ -123,7 +123,7 @@ const TourDetail = () => {
       phone: '',
       specialRequests: ''
     });
-  }, [formData, tour, selectedDate, adults, children, calculateTotal]);
+  }, [tour]);
 
 
   // Fetch tour data

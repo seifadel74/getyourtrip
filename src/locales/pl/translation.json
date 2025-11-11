@@ -1,0 +1,580 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "tours": "Wycieczki",
+    "destinations": "Destynacje",
+    "about": "O nas",
+    "contact": "Kontakt",
+    "bookNow": "Zarezerwuj teraz"
+  },
+  "common": {
+    "welcome": "Witaj w Get Your Trip!",
+    "loading": "Ładowanie...",
+    "error": "Wystąpił błąd",
+    "success": "Sukces!",
+    "readMore": "Czytaj więcej",
+    "showLess": "Pokaż mniej",
+    "search": "Szukaj",
+    "apply": "Zastosuj",
+    "reset": "Resetuj",
+    "close": "Zamknij"
+  },
+  "hero": {
+    "tagline": "Odkrywaj świat z nami",
+    "title": "Odkryj niesamowite miejsca na całym świecie",
+    "description": "Doświadcz najbardziej zapierających dech w piersiach miejsc z naszymi starannie zaplanowanymi wycieczkami. Stwórz wspomnienia, które pozostaną z Tobą na zawsze.",
+    "exploreTours": "Zobacz wycieczki",
+    "learnMore": "Dowiedz się więcej",
+    "searchTitle": "Znajdź idealną wycieczkę",
+    "destination": "Miejsce docelowe",
+    "selectDestination": "Wybierz miejsce docelowe",
+    "duration": "Czas trwania",
+    "anyDuration": "Dowolny czas trwania",
+    "days1to3": "1-3 Dni",
+    "days4to7": "4-7 Dni",
+    "weeks1to2": "1-2 Tygodnie",
+    "weeks2plus": "Powyżej 2 tygodni",
+    "travelDate": "Data wyjazdu",
+    "search": "Szukaj"
+  },
+  "home": {
+    "heroTitle": "Odkrywaj świat z nami",
+    "heroSubtitle": "Znajdź idealną wycieczkę dla siebie",
+    "popularTours": "Popularne wycieczki",
+    "featuredDestinations": "Polecane destynacje",
+    "whyChooseUs": "Dlaczego my?",
+    "testimonials": "Opinie naszych klientów",
+    "newsletter": "Zapisz się do newslettera",
+    "newsletterPlaceholder": "Twój adres e-mail",
+    "subscribe": "Subskrybuj"
+  },
+  "footer": {
+    "company": "Firma",
+    "aboutUs": "O nas",
+    "ourTeam": "Nasz zespół",
+    "careers": "Kariera",
+    "blog": "Blog",
+    "support": "Wsparcie",
+    "faqs": "FAQ",
+    "contactUs": "Skontaktuj się z nami",
+    "termsConditions": "Regulamin",
+    "privacyPolicy": "Polityka prywatności",
+    "contact": "Kontakt",
+    "description": "Odkrywaj świat z naszymi starannie wyselekcjonowanymi propozycjami podróży. Tworzymy niezapomniane wspomnienia dla każdego podróżnika.",
+    "copyright": "Wszelkie prawa zastrzeżone.",
+    "social": {
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "tripadvisor": "TripAdvisor"
+    },
+    "quickLinks": "Szybkie linki",
+    "newsletter": "Newsletter",
+    "newsletterText": "Zapisz się, aby otrzymywać najnowsze oferty i informacje o wycieczkach.",
+    "rightsReserved": "Wszelkie prawa zastrzeżone",
+    "followUs": "Śledź nas"
+  },
+  "whyChooseUs": {
+    "title": "Dlaczego my?",
+    "subtitle": "Dlaczego warto wybrać nasze usługi turystyczne?",
+    "features": {
+      "bestPrice": {
+        "title": "Gwarancja najlepszej ceny",
+        "description": "Gwarantujemy najlepsze ceny na Twoje wymarzone wakacje!"
+      },
+      "worldwide": {
+        "title": "Zasięg globalny",
+        "description": "Odkrywaj niesamowite miejsca na całym świecie z naszymi ekspertami."
+      },
+      "bestDeals": {
+        "title": "Najlepsze oferty",
+        "description": "Ekskluzywne oferty i zniżki dla naszych stałych klientów."
+      },
+      "bestServices": {
+        "title": "Najlepsza obsługa",
+        "description": "Całodobowe wsparcie klienta, aby zapewnić Ci najlepsze wrażenia z podróży."
+      },
+      "expertGuides": {
+        "title": "Doświadczeni przewodnicy",
+        "description": "Nasi profesjonalni przewodnicy znają wszystkie najlepsze miejsca i ukryte perełki."
+      },
+      "sustainableTravel": {
+        "title": "Zrównoważona turystyka",
+        "description": "Jesteśmy zaangażowani w odpowiedzialną turystykę, która przynosi korzyści lokalnym społecznościom."
+      },
+      "customizedTrips": {
+        "title": "Spersonalizowane wycieczki",
+        "description": "Tworzymy podróże dostosowane do Twoich zainteresowań i preferencji."
+      },
+      "safetyFirst": {
+        "title": "Bezpieczeństwo przede wszystkim",
+        "description": "Twoje bezpieczeństwo jest naszym priorytetem. Współpracujemy tylko ze sprawdzonymi partnerami."
+      }
+    }
+  },
+  "popularTours": {
+    "title": "Popularne wycieczki",
+    "subtitle": "Odkryj nasze najpopularniejsze pakiety podróży, starannie przygotowane, aby zapewnić Ci niezapomniane wrażenia.",
+    "featured": "Polecane",
+    "perPerson": "na osobę",
+    "viewDetails": "Zobacz szczegóły",
+    "viewAllTours": "Zobacz wszystkie wycieczki"
+  },
+  "callToAction": {
+    "title": "Gotowy na następną przygodę?",
+    "subtitle": "Nie czekaj dłużej. Zarezerwuj swoje wymarzone wakacje już dziś i stwórz wspomnienia na całe życie.",
+    "exploreTours": "Zobacz wycieczki",
+    "contactUs": "Skontaktuj się z nami",
+    "callUs": "Zadzwoń do nas",
+    "emailUs": "Napisz do nas"
+  },
+  "about": {
+    "title": "O Get Your Trip",
+    "subtitle": "Tworzymy niezapomniane podróże od 2020 roku",
+    "ourStory": {
+      "title": "Nasza historia",
+      "paragraph1": "Założona w 2020 roku firma Get Your Trip rozpoczęła działalność z prostą misją: uczynić planowanie podróży łatwym i przyjemnym. To, co zaczęło się jako mały zespół pasjonatów podróży, przekształciło się w uznaną markę w branży turystycznej, pomagającą tysiącom podróżnych odkrywać najpiękniejsze zakątki świata.",
+      "paragraph2": "Wierzymy, że podróże mają siłę zmieniania życia, poszerzania horyzontów i tworzenia trwałych wspomnień. Dlatego dokładamy wszelkich starań, aby zapewnić wyjątkową obsługę, starannie wyselekcjonowane doświadczenia i spersonalizowane podejście do każdego podróżnego, który rezerwuje u nas wycieczkę.",
+      "paragraph3": "Nasz zespół ekspertów podróżniczych starannie wybiera każdy kierunek, hotel i atrakcję, aby zapewnić Ci niezapomniane wrażenia. Jesteśmy dumni z oferowania autentycznych i wyjątkowych doświadczeń, które wykraczają poza standardowe szlaki turystyczne.",
+      "paragraph4": "Od momentu powstania pomogliśmy ponad 50 000 podróżnym spełnić ich marzenia o podróżach. Nasze zaangażowanie w jakość, bezpieczeństwo i satysfakcję klientów przyniosło nam uznanie w branży i lojalność naszych klientów."
+    },
+    "ourMission": {
+      "title": "Nasza misja",
+      "description": "Naszą misją jest inspirowanie i pomaganie ludziom w odkrywaniu świata poprzez dostarczanie wyjątkowych doświadczeń podróżniczych, które wzbogacają życie i tworzą trwałe więzi między kulturami.",
+      "vision": "Naszą wizją jest stanie się najbardziej godną zaufania i inspirującą firmą turystyczną na świecie, znaną z innowacyjnych ofert i niezrównanej obsługi."
+    },
+    "ourValues": {
+      "title": "Nasze wartości",
+      "subtitle": "Co wyróżnia Get Your Trip",
+      "passionateExperts": {
+        "name": "Pasjonaci podróży",
+        "description": "Nasz zespół składa się z pasjonatów podróży, którzy osobiście odwiedzili oferowane przez nas kierunki."
+      },
+      "sustainableTravel": {
+        "name": "Zrównoważona turystyka",
+        "description": "Zobowiązujemy się do odpowiedzialnej turystyki, która przynosi korzyści lokalnym społecznościom i chroni zasoby naturalne."
+      },
+      "personalizedService": {
+        "name": "Spersonalizowana obsługa",
+        "description": "Poświęcamy czas na zrozumienie Twoich preferencji i stworzenie idealnej trasy specjalnie dla Ciebie."
+      },
+      "safetyFirst": {
+        "name": "Bezpieczeństwo przede wszystkim",
+        "description": "Twoje bezpieczeństwo jest naszym priorytetem. Współpracujemy ze sprawdzonymi lokalnymi operatorami i przestrzegamy surowych standardów bezpieczeństwa."
+      }
+    },
+    "team": {
+      "title": "Poznaj nasz zespół",
+      "subtitle": "Pasjonaci stojący za Get Your Trip"
+    },
+    "cta": {
+      "title": "Gotowy na swoją następną przygodę?",
+      "subtitle": "Rozpocznij swoją podróż z nami już dziś.",
+      "exploreTours": "Zobacz wycieczki",
+      "contactUs": "Skontaktuj się z nami"
+    }
+  },
+  "tours": {
+    "title": "Nasze wycieczki",
+    "subtitle": "Odkryj nasze starannie wyselekcjonowane oferty wycieczek",
+    "loadingTitle": "Nasze wycieczki",
+    "loadingSubtitle": "Ładujemy dla Ciebie najlepsze opcje podróży...",
+    "toursFound": "znalezionych wycieczek",
+    "tourFound": "znaleziona wycieczka",
+    "toursIn": "Wycieczki do",
+    "noResults": "Nie znaleziono wycieczek spełniających Twoje kryteria.",
+    "noResultsDescription": "Spróbuj zmienić parametry wyszukiwania lub skontaktuj się z nami w celu indywidualnego doboru wycieczki.",
+    "clearFilters": "Wyczyść wszystkie filtry",
+    "loadingFilters": "Ładowanie filtrów...",
+    "allTours": "Wszystkie wycieczki",
+    "filters": "Filtry",
+    "sortBy": "Sortuj według",
+    "priceLowToHigh": "Cena: od najniższej",
+    "priceHighToLow": "Cena: od najwyższej",
+    "duration": "Czas trwania",
+    "days": "dni",
+    "priceFrom": "od",
+    "priceTo": "do",
+    "applyFilters": "Zastosuj filtry",
+    "resetFilters": "Resetuj filtry",
+    "noToursFound": "Nie znaleziono wycieczek",
+    "bookNow": "Zarezerwuj teraz",
+    "viewDetails": "Zobacz szczegóły",
+    "tourTypes": {
+      "all": "Wszystkie rodzaje wycieczek",
+      "adventure": "Przygodowe",
+      "beach": "Wypoczynek na plaży",
+      "cultural": "Kulturowe",
+      "cruise": "Rejsy",
+      "family": "Rodzinne",
+      "honeymoon": "Podróż poślubna",
+      "luxury": "Luksusowe",
+      "safari": "Safari",
+      "shopping": "Wycieczki zakupowe",
+      "sightseeing": "Zwiedzanie",
+      "ski": "Narciarskie",
+      "wildlife": "Obserwacja dzikiej przyrody",
+      "yoga": "Joga i rekolekcje"
+    },
+    "difficultyLevels": {
+      "easy": "Łatwy",
+      "moderate": "Umiarkowany",
+      "challenging": "Wymagający",
+      "extreme": "Ekstremalny"
+    },
+    "tripStyles": {
+      "group": "Wycieczki grupowe",
+      "private": "Wycieczki prywatne",
+      "selfGuided": "Samospełniające się podróże",
+      "custom": "Niestandardowe trasy"
+    },
+    "seasons": {
+      "spring": "Wiosna",
+      "summer": "Lato",
+      "autumn": "Jesień",
+      "winter": "Zima",
+      "allYear": "Przez cały rok"
+    },
+    "accommodationTypes": {
+      "hotel": "Hotel",
+      "hostel": "Hostel",
+      "apartment": "Apartament",
+      "villa": "Willa",
+      "resort": "Ośrodek wypoczynkowy",
+      "camping": "Kemping",
+      "homestay": "Pobyt u lokalnych gospodarzy",
+      "cruise": "Statek wycieczkowy",
+      "all": "Dowolny rodzaj zakwaterowania"
+    },
+    "mealPlans": {
+      "breakfast": "Śniadanie",
+      "halfBoard": "Półpensjonat",
+      "fullBoard": "Pełne wyżywienie",
+      "allInclusive": "All inclusive",
+      "selfCatering": "Bez wyżywienia"
+    },
+    "transportation": {
+      "flight": "Lot",
+      "train": "Pociąg",
+      "bus": "Autobus",
+      "car": "Samochód",
+      "cruise": "Rejs",
+      "all": "Dowolny środek transportu"
+    },
+    "priceRanges": {
+      "budget": "Ekonomiczny",
+      "midRange": "Średnia półka",
+      "luxury": "Luksusowy",
+      "all": "Dowolny przedział cenowy"
+    },
+    "groupSizes": {
+      "solo": "Solo",
+      "couple": "Para",
+      "smallGroup": "Mała grupa (2-6 osób)",
+      "mediumGroup": "Średnia grupa (7-15 osób)",
+      "largeGroup": "Duża grupa (16+ osób)",
+      "all": "Dowolna wielkość grupy"
+    },
+    "ageGroups": {
+      "family": "Rodziny z dziećmi",
+      "youth": "Młodzież (18-30)",
+      "adults": "Dorośli (31-50)",
+      "seniors": "Seniorzy (50+)",
+      "all": "W każdym wieku"
+    },
+    "specialOffers": {
+      "earlyBird": "Wczesna rezerwacja",
+      "lastMinute": "Last minute",
+      "groupDiscount": "Zniżki dla grup",
+      "loyaltyDiscount": "Program lojalnościowy",
+      "seasonal": "Oferty sezonowe",
+      "all": "Wszystkie promocje"
+    },
+    "sustainability": {
+      "ecoFriendly": "Turystyka ekologiczna",
+      "communityBased": "Wsparcie lokalnych społeczności",
+      "wildlifeConservation": "Ochrona dzikiej przyrody",
+      "all": "Wszystkie opcje zrównoważonej turystyki"
+    },
+    "accessibility": {
+      "wheelchairAccessible": "Dostępne dla wózków inwalidzkich",
+      "reducedMobility": "Dla osób z ograniczoną mobilnością",
+      "hearingImpaired": "Dla osób niedosłyszących",
+      "visuallyImpaired": "Dla osób niedowidzących",
+      "all": "Wszystkie opcje dostępności"
+    },
+    "additionalFilters": {
+      "petFriendly": "Przyjazne zwierzętom",
+      "freeCancellation": "Darmowa anulacja",
+      "instantConfirmation": "Natychmiastowe potwierdzenie",
+      "bestSeller": "Bestsellery",
+      "new": "Nowości",
+      "recommended": "Polecane"
+    },
+    "viewMap": "Pokaż na mapie",
+    "viewList": "Widok listy",
+    "loadMore": "Załaduj więcej",
+    "allFilters": "Wszystkie filtry",
+    "resetAll": "Wyczyść wszystko",
+    "applyChanges": "Zastosuj zmiany",
+    "closeFilters": "Zamknij filtry",
+    "pricePerPerson": "Cena za osobę",
+    "totalPrice": "Całkowity koszt",
+    "departure": "Data wyjazdu",
+    "returnDate": "Data powrotu",
+    "nights": "nocy",
+    "selectDate": "Wybierz datę",
+    "travelers": "Podróżujący",
+    "adults": "Dorośli",
+    "children": "Dzieci",
+    "infants": "Niemowlęta",
+    "ages": "Wiek",
+    "room": "Pokój",
+    "rooms": "Pokoje",
+    "roomType": "Typ pokoju",
+    "roomTypes": {
+      "single": "Jednoosobowy",
+      "double": "Dwuosobowy",
+      "twin": "Dwa osobne łóżka",
+      "triple": "Trzyosobowy",
+      "quad": "Czteroosobowy",
+      "family": "Rodzinny",
+      "suite": "Apartament",
+      "villa": "Willa"
+    },
+    "viewTourDetails": "Zobacz szczegóły wycieczki",
+    "itinerary": "Plan podróży",
+    "included": "Zawarte w cenie",
+    "notIncluded": "Niezawarte w cenie",
+    "reviews": "Opinie",
+    "photos": "Zdjęcia",
+    "videos": "Filmy",
+    "location": "Lokalizacja",
+    "availability": "Dostępność",
+    "selectOptions": "Wybierz opcje",
+    "continueBooking": "Kontynuuj rezerwację",
+    "addToWishlist": "Dodaj do listy życzeń",
+    "shareTour": "Udostępnij wycieczkę",
+    "similarTours": "Podobne wycieczki",
+    "whyBookWithUs": "Dlaczego warto rezerwować u nas",
+    "bestPrice": "Najlepsza cena",
+    "bestPriceDescription": "Gwarancja najlepszej ceny na wszystkie nasze wycieczki",
+    "localExperts": "Lokalni eksperci",
+    "localExpertsDescription": "Nasi eksperci znają wszystkie najlepsze miejsca i ukryte perełki",
+    "customerSupport": "Wsparcie 24/7",
+    "customerSupportDescription": "Nasz zespół wsparcia jest zawsze gotowy do pomocy",
+    "secureBooking": "Bezpieczna rezerwacja",
+    "secureBookingDescription": "Twoje dane są u nas bezpieczne",
+    "flexibleOptions": "Elastyczne warunki",
+    "flexibleOptionsDescription": "Elastyczne warunki rezerwacji i anulowania",
+    "customerReviews": "Opinie klientów",
+    "writeReview": "Napisz opinię",
+    "seeAllReviews": "Zobacz wszystkie opinie",
+    "noReviews": "Brak opinii. Bądź pierwszy!"
+  },
+  "destinations": {
+    "title": "Odkryj niesamowite miejsca",
+    "subtitle": "Poznaj naszą starannie wyselekcjonowaną ofertę najpiękniejszych zakątków świata",
+    "searchPlaceholder": "Wyszukaj miejsca...",
+    "filterByCountry": "Filtruj według kraju:",
+    "all": "Wszystkie",
+    "popular": "Popularne",
+    "reviews": "opinii",
+    "noResults": "Nie znaleziono miejsc",
+    "tryAdjusting": "Spróbuj zmienić kryteria wyszukiwania lub filtry"
+  },
+  "newsletter": {
+    "title": "Zapisz się do naszego newslettera",
+    "description": "Otrzymuj najnowsze oferty i zniżki bezpośrednio na swoją skrzynkę",
+    "email": "E-mail",
+    "emailPlaceholder": "Wprowadź swój adres e-mail",
+    "subscribe": "Zapisz się",
+    "subscribing": "Zapisywanie...",
+    "success": "Zostałeś pomyślnie zapisany! Dziękujemy",
+    "privacy": "Szanujemy Twoją prywatność. Nie udostępniamy Twojego adresu e-mail osobom trzecim."
+  },
+  "featuredDestinations": {
+    "title": "Polecane miejsca",
+    "subtitle": "Odkryj najlepsze kierunki turystyczne na całym świecie z ekskluzywnymi ofertami",
+    "startingFrom": "Już od",
+    "perNight": "za noc",
+    "viewAllDestinations": "Zobacz wszystkie miejsca"
+  },
+  "tourDetail": {
+    "overview": "Przegląd",
+    "itinerary": "Plan podróży",
+    "reviews": "Opinie",
+    "customerReviews": "Opinie klientów",
+    "writeReview": "Napisz opinię",
+    "loadingReviews": "Wczytywanie opinii...",
+    "bookNow": "Zarezerwuj teraz",
+    "selectDate": "Wybierz datę",
+    "adults": "Dorośli",
+    "children": "Dzieci",
+    "total": "Razem",
+    "back": "Wstecz"
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Odpowiedzi na najczęściej zadawane pytania dotyczące naszych wycieczek i usług",
+    "searchPlaceholder": "Szukaj pytań...",
+    "noResults": "Nie znaleziono wyników dla Twojego zapytania.",
+    "categories": {
+      "all": "Wszystkie kategorie",
+      "booking": "Rezerwacja",
+      "cancellation": "Anulowanie i zwroty",
+      "preparation": "Przygotowanie do podróży"
+    },
+    "popularQuestions": "Popularne pytania",
+    "contactSupport": "Nie znalazłeś odpowiedzi? Skontaktuj się z nami"
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "subtitle": "Przepraszamy, nie możemy znaleźć strony, której szukasz.",
+    "backToHome": "Wróć na stronę główną",
+    "exploreTours": "Zobacz wycieczki"
+  },
+  "search": {
+    "title": "Wyszukiwanie wycieczek",
+    "placeholder": "Dokąd chcesz się wybrać?",
+    "noResults": "Nie znaleziono wyników dla Twojego zapytania.",
+    "tryDifferent": "Spróbuj zmienić kryteria wyszukiwania",
+    "recentSearches": "Ostatnie wyszukiwania",
+    "popularDestinations": "Popularne kierunki",
+    "filter": "Filtruj",
+    "sort": "Sortuj",
+    "loading": "Wyszukiwanie..."
+  },
+  "user": {
+    "profile": "Profil",
+    "myBookings": "Moje rezerwacje",
+    "wishlist": "Lista życzeń",
+    "settings": "Ustawienia",
+    "logout": "Wyloguj się",
+    "login": "Zaloguj się",
+    "register": "Zarejestruj się",
+    "forgotPassword": "Zapomniałeś hasła?",
+    "resetPassword": "Zresetuj hasło",
+    "noAccount": "Nie masz konta?",
+    "alreadyHaveAccount": "Masz już konto?",
+    "signIn": "Zaloguj się",
+    "signUp": "Zarejestruj się",
+    "or": "lub",
+    "continueWith": "Kontynuuj przez"
+  },
+  "cart": {
+    "title": "Koszyk",
+    "yourCart": "Twój koszyk",
+    "orderSummary": "Podsumowanie zamówienia",
+    "subtotal": "Suma częściowa",
+    "taxes": "Podatki i opłaty",
+    "total": "Razem",
+    "checkout": "Do kasy",
+    "continueShopping": "Kontynuuj zakupy",
+    "emptyCart": "Twój koszyk jest pusty",
+    "addTours": "Dodaj wycieczki, aby kontynuować",
+    "remove": "Usuń",
+    "saving": "Oszczędzasz",
+    "applyCoupon": "Zastosuj kupon",
+    "couponCode": "Kod kuponu",
+    "apply": "Zastosuj",
+    "invalidCoupon": "Nieprawidłowy kupon",
+    "couponApplied": "Kupon został zastosowany"
+  },
+  "checkout": {
+    "title": "Zamówienie",
+    "contactInformation": "Dane kontaktowe",
+    "paymentMethod": "Metoda płatności",
+    "shippingAddress": "Adres dostawy",
+    "billingAddress": "Adres rozliczeniowy",
+    "sameAsShipping": "Ten sam jak adres dostawy",
+    "orderSummary": "Podsumowanie zamówienia",
+    "placeOrder": "Złóż zamówienie",
+    "processing": "Przetwarzanie...",
+    "orderConfirmation": "Potwierdzenie zamówienia",
+    "thankYou": "Dziękujemy za złożenie zamówienia!",
+    "orderNumber": "Numer zamówienia",
+    "confirmationEmail": "Potwierdzenie zostało wysłane na adres",
+    "whatsNext": "Co dalej?",
+    "trackOrder": "Śledź zamówienie",
+    "backToShop": "Wróć do sklepu",
+    "needHelp": "Potrzebujesz pomocy?",
+    "contactUs": "Skontaktuj się z nami"
+  },
+  "booking": {
+    "title": "Rezerwacja",
+    "personalInfo": "Dane osobowe",
+    "fullName": "Imię i nazwisko",
+    "email": "Adres e-mail",
+    "phone": "Numer telefonu",
+    "specialRequests": "Specjalne życzenia",
+    "paymentMethod": "Metoda płatności",
+    "creditCard": "Karta kredytowa",
+    "paypal": "PayPal",
+    "bankTransfer": "Przelew bankowy",
+    "cardNumber": "Numer karty",
+    "expiryDate": "Data ważności",
+    "cvv": "Kod CVV",
+    "nameOnCard": "Imię i nazwisko na karcie",
+    "termsAgreement": "Akceptuję regulamin i politykę prywatności",
+    "completeBooking": "Złóż rezerwację",
+    "bookingSummary": "Podsumowanie rezerwacji",
+    "thankYou": "Dziękujemy za rezerwację!",
+    "confirmationSent": "Potwierdzenie zostało wysłane na Twój adres e-mail."
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Masz pytania? Chętnie na nie odpowiemy!",
+    "name": "Imię i nazwisko",
+    "email": "Adres e-mail",
+    "subject": "Temat",
+    "message": "Wiadomość",
+    "sendMessage": "Wyślij wiadomość",
+    "contactInfo": "Dane kontaktowe",
+    "address": "Adres",
+    "phone": "Telefon",
+    "emailUs": "Napisz do nas",
+    "workingHours": "Godziny pracy",
+    "mondayToFriday": "Poniedziałek - Piątek",
+    "saturday": "Sobota",
+    "sunday": "Niedziela",
+    "getInTouch": "Skontaktuj się z nami",
+    "followUs": "Obserwuj nas"
+  },
+  "testimonials": {
+    "title": "Co mówią o nas klienci",
+    "subtitle": "Poznaj opinie osób, które już z nami podróżowały",
+    "loadMore": "Załaduj więcej",
+    "writeReview": "Napisz opinię",
+    "yourExperience": "Podziel się swoimi wrażeniami",
+    "submit": "Prześlij opinię",
+    "submitting": "Wysyłanie...",
+    "success": "Dziękujemy za opinię! Zostanie opublikowana po weryfikacji.",
+    "error": "Wystąpił błąd podczas przesyłania opinii. Prosimy spróbować później."
+  },
+  "footer": {
+    "aboutUs": "O nas",
+    "aboutText": "Jesteśmy pasjonatami podróży, którzy chcą dzielić się swoją miłością do odkrywania świata.",
+    "quickLinks": "Szybkie linki",
+    "contactUs": "Kontakt",
+    "newsletter": "Newsletter",
+    "newsletterText": "Zapisz się, aby otrzymywać najnowsze oferty i informacje o wycieczkach.",
+    "subscribe": "Subskrybuj",
+    "rightsReserved": "Wszelkie prawa zastrzeżone",
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfService": "Regulamin",
+    "cookiesPolicy": "Polityka plików cookies"
+  },
+  "errors": {
+    "required": "To pole jest wymagane",
+    "invalidEmail": "Nieprawidłowy adres e-mail",
+    "minLength": "Minimalna długość to {{count}} znaków",
+    "maxLength": "Maksymalna długość to {{count}} znaków",
+    "passwordsDontMatch": "Hasła nie są identyczne"
+  },
+  "success": {
+    "messageSent": "Wiadomość została wysłana!",
+    "bookingConfirmed": "Rezerwacja została potwierdzona!",
+    "subscriptionSuccess": "Dziękujemy za zapisanie się do naszego newslettera!"
+  }
+}
